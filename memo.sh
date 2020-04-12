@@ -7,6 +7,7 @@ add_file() {
   filename=$2
   command="$ROOT_DIR/${dir}/${filename}.md"
   touch $command
+  open $command
 }
 
 list_files() {
