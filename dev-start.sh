@@ -4,7 +4,7 @@ cd ~/workspace/zenkigen/HARUTAKA_Server_db
 tmux split-window -h
 tmux resize-pane -R 30
 
-cd ~/workspace/zenkigen/HARUTAKA_Server
+cd ~/workspace/zenkigen/HARUTAKA_Server2
 tmux split-window -v
 tmux resize-pane -U 32
 
